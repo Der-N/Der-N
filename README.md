@@ -21,14 +21,13 @@ Here are some ideas to get you started:
 
 ### Where i can conrtibute
 
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=c,cpp,cs,dotnet,java,dart,flutter,py,rust,vb,excel,fortran,cmake&perline=7)](https://github.com/thuongtruong109/icoziv)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,dart,flutter,py,rust,fortran,cmake&perline=7)](https://skillicons.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=php,js,htmx,css,mysql,sqlite,apache,drupal,joomla-dark,wordpress&perline=7)](https://i.icoziv.workers.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,htmx,css,mysql,sqlite,wordpress&perline=7)](https://skillicons.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,git,githubcopilot-dark,openai,emacs&perline=7)](https://i.icoziv.workers.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,git,ai,emacs&perline=7)](https://skillicons.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=windows-dark,powershell,batch,android-dark,linux-dark,bash,debian,kalilinux-dark,opensuse-dark,ubuntu-dark&perline=7)](https://i.icoziv.workers.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,bash,ubuntu,debian,kali&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=matlab,octave,opencv,md,latex&perline=7)](https://skillicons.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=matlab,octave,opencv,autocad,freecad,md,latex&perline=7)](https://i.icoziv.workers.dev)
 
