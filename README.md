@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [My Skills](https://skillicons.dev)
 -->
 
-### Where i can conrtibute
+### Where i can contribute
 
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=c,cpp,cs,dotnet,java,dart,flutter,py,rust,vb,excel,fortran,cmake&perline=7)](https://github.com/thuongtruong109/icoziv)
 
